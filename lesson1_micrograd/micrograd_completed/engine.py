@@ -1,3 +1,6 @@
+"""
+This module implements a simple automatic differentiation engine for building neural networks.This was built following the lecture of Andrej Karpathy on backpropagation and neural networks.
+"""
 import math
 
 
